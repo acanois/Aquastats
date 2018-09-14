@@ -1,19 +1,12 @@
-# WaterIsWet
+# Aquastats
 Aquastat Data Analysis Summary
 
-![water is wet](../images/wateriswet.jpg)
-# Water We Doing?: A Summary
+![water](./images/water.jpg)
+A Summary
 
-"Water is Wet" is an Exploratory Data Analysis project to see what factors affect the development index of countries around the world. It aims to compare certain parameters related to water resources, agriculture, land and population over a time period against some development indicators for countries like Human Development Indicator (HDI), Gross Domestic Product (GDP), Gender Inequality Index (GII) and Prevelance of Undernourishment.
+Aquastats is an Exploratory Data Analysis project to see what factors affect the development index of countries around the world. It aims to compare certain parameters related to water resources, agriculture, land and population over a time period against some development indicators for countries like Human Development Indicator (HDI), Gross Domestic Product (GDP), Gender Inequality Index (GII) and Prevelance of Undernourishment.
 
-## Project Team:
-* Andrea Karaffa
-* David Richter
-* Jen Vacanti
-* Luke Pharr
-* Rupali Mayekar
-
-## Watery We Think About This?: Our hypothesis
+## Hypothesis
 We believe the following relationships and dependencies exist, and through our analysis propose to present the relationships by exploring the data provided by [The Food and Agriculture Organization of the United Nations](http://www.fao.org/home/en/) under their [AQUASTAT](http://www.fao.org/nr/water/aquastat/main/index.stm) project. 
 
 * The development of a country depends on its water resources (rainfall, external resources, internal resources)
